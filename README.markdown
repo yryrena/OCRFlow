@@ -86,11 +86,11 @@ python scripts/batch_binarize.py \
 
 *Input:*
 
-<img src="./data/1_raw_scans/binarize_example_image1.png" alt="binarize_example_image1" width="300"> 
+<img src="./data/1_raw_scans/binarize_example_image1.png" alt="binarize_example_image1" width="400"> 
 
 *Output:*
 
-<img src="./data/2_binarized/binarize_example_image1.png" alt="binarize_example_image1"  width="300"> 
+<img src="./data/2_binarized/binarize_example_image1.png" alt="binarize_example_image1"  width="400"> 
 
   
 
@@ -122,7 +122,7 @@ python scripts/split_columns.py \
 
 *Output:* 
 
-<img src="./data/4_split_pages_cols/split_example_image1_col1.png" alt="split_example_image1_col1"  width="130">        <img src="./data/4_split_pages_cols/split_example_image1_col2.png" alt="split_example_image1_col2"   width="130">     
+<img src="./data/4_split_pages_cols/split_example_image1_col1.png" alt="split_example_image1_col1"  width="130"  style="margin-right:10px;">             <img src="./data/4_split_pages_cols/split_example_image1_col2.png" alt="split_example_image1_col2"   width="130">     
 
 
 
@@ -134,7 +134,7 @@ python scripts/split_columns.py \
 
 *Output:*  
 
-<img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col1"  width="80">    <img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col2"   width="80">   <img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col3"  width="80">
+<img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col1"  width="80"  style="margin-right:10px;">    <img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col2"   width="80"  style="margin-right:10px;">   <img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col3"  width="80">
 
 
 
@@ -167,11 +167,11 @@ python scripts/run_paddle_ocr.py \
 
 *Input:* 
 
-<img src="./data/5_for_ocr/ocr_example_image1.png" alt="ocr_example_image2"  width="250"> 
+<img src="./data/5_for_ocr/ocr_example_image1.png" alt="ocr_example_image2"  width="400"> 
 
 *Output:* 
 
-<img src="./data/6_ocr_results/ocr_example_image1_ocr_20251026_040005.png" alt="ocr_example_image2_ocr_20251026_040005"  width="300"> 
+<img src="./data/6_ocr_results/ocr_example_image1_ocr_20251026_040005.png" alt="ocr_example_image2_ocr_20251026_040005"  width="400"> 
 
 
 
@@ -179,7 +179,7 @@ python scripts/run_paddle_ocr.py \
 
 *Input:* 
 
-<img src="./data/5_for_ocr/ocr_example_image2.png" alt="ocr_example_image2"  width="250"> 
+<img src="./data/5_for_ocr/ocr_example_image2.png" alt="ocr_example_image2"  width="400"> 
 
 *Output:* 
 
@@ -187,7 +187,7 @@ python scripts/run_paddle_ocr.py \
 
 - `.csv` file
 
-<img src="./data/6_ocr_results/ocr_example_image2_ocr_20251026_040005.png" alt="ocr_example_image2_ocr_20251026_040005"  width="300"> 
+<img src="./data/6_ocr_results/ocr_example_image2_ocr_20251026_040005.png" alt="ocr_example_image2_ocr_20251026_040005"  width="400"> 
 
 
 

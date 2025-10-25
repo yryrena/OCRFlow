@@ -122,7 +122,7 @@ python scripts/split_columns.py \
 
 *Output:* 
 
-<img src="./data/4_split_pages_cols/split_example_image1_col1.png" alt="split_example_image1_col1" style="zoom:13%;" />        <img src="./data/4_split_pages_cols/split_example_image1_col2.png" alt="split_example_image1_col2" style="zoom:13%;" />     
+<img src="./data/4_split_pages_cols/split_example_image1_col1.png" alt="split_example_image1_col1" style="zoom:7%;" />        <img src="./data/4_split_pages_cols/split_example_image1_col2.png" alt="split_example_image1_col2" style="zoom:7%;" />     
 
 
 
@@ -134,7 +134,7 @@ python scripts/split_columns.py \
 
 *Output:*  
 
-<img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col1" style="zoom:20%;" />    <img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col2" style="zoom:20%;" />  <img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col3" style="zoom:20%;" />
+<img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col1" style="zoom:10%;" />    <img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col2" style="zoom:10%;" />  <img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col3" style="zoom:10%;" />
 
 
 
@@ -167,11 +167,11 @@ python scripts/run_paddle_ocr.py \
 
 *Input:* 
 
-<img src="./data/5_for_ocr/ocr_example_image1.png" alt="ocr_example_image2" style="zoom:25%;" /> 
+<img src="./data/5_for_ocr/ocr_example_image1.png" alt="ocr_example_image2" style="zoom:20%;" /> 
 
 *Output:* 
 
-<img src="./data/6_ocr_results/ocr_example_image1_ocr_20251026_040005.png" alt="ocr_example_image2_ocr_20251026_040005" style="zoom:25%;" /> 
+<img src="./data/6_ocr_results/ocr_example_image1_ocr_20251026_040005.png" alt="ocr_example_image2_ocr_20251026_040005" style="zoom:20%;" /> 
 
 
 
@@ -179,7 +179,7 @@ python scripts/run_paddle_ocr.py \
 
 *Input:* 
 
-<img src="./data/5_for_ocr/ocr_example_image2.png" alt="ocr_example_image2" style="zoom:25%;" /> 
+<img src="./data/5_for_ocr/ocr_example_image2.png" alt="ocr_example_image2" style="zoom:20%;" /> 
 
 *Output:* 
 
@@ -187,7 +187,7 @@ python scripts/run_paddle_ocr.py \
 
 - `.csv` file
 
-<img src="./data/6_ocr_results/ocr_example_image2_ocr_20251026_040005.png" alt="ocr_example_image2_ocr_20251026_040005" style="zoom:25%;" /> 
+<img src="./data/6_ocr_results/ocr_example_image2_ocr_20251026_040005.png" alt="ocr_example_image2_ocr_20251026_040005" style="zoom:20%;" /> 
 
 
 

@@ -1,0 +1,554 @@
+[
+  [
+    {
+      "box": [
+        [
+          147.0,
+          69.0
+        ],
+        [
+          939.0,
+          70.0
+        ],
+        [
+          939.0,
+          99.0
+        ],
+        [
+          147.0,
+          98.0
+        ]
+      ],
+      "text": "DOUBLE LIABILITY OF BANK SHAREHOLDERS:",
+      "score": 0.9896413683891296
+    },
+    {
+      "box": [
+        [
+          295.0,
+          107.0
+        ],
+        [
+          792.0,
+          108.0
+        ],
+        [
+          792.0,
+          133.0
+        ],
+        [
+          294.0,
+          132.0
+        ]
+      ],
+      "text": "HISTORYANDIMPLICATIONS",
+      "score": 0.9973359704017639
+    },
+    {
+      "box": [
+        [
+          416.0,
+          183.0
+        ],
+        [
+          667.0,
+          186.0
+        ],
+        [
+          667.0,
+          215.0
+        ],
+        [
+          416.0,
+          213.0
+        ]
+      ],
+      "text": "JonathanR.Macey*",
+      "score": 0.9968264698982239
+    },
+    {
+      "box": [
+        [
+          419.0,
+          218.0
+        ],
+        [
+          666.0,
+          214.0
+        ],
+        [
+          666.0,
+          243.0
+        ],
+        [
+          420.0,
+          246.0
+        ]
+      ],
+      "text": "GeoffreyP.Miller**",
+      "score": 0.990738034248352
+    },
+    {
+      "box": [
+        [
+          461.0,
+          297.0
+        ],
+        [
+          628.0,
+          300.0
+        ],
+        [
+          627.0,
+          325.0
+        ],
+        [
+          460.0,
+          322.0
+        ]
+      ],
+      "text": "INTRODUCTION",
+      "score": 0.9970207214355469
+    },
+    {
+      "box": [
+        [
+          155.0,
+          345.0
+        ],
+        [
+          982.0,
+          346.0
+        ],
+        [
+          982.0,
+          375.0
+        ],
+        [
+          155.0,
+          374.0
+        ]
+      ],
+      "text": "For three quarters of a century—between, roughly, the Civil War and",
+      "score": 0.9830096960067749
+    },
+    {
+      "box": [
+        [
+          106.0,
+          377.0
+        ],
+        [
+          980.0,
+          378.0
+        ],
+        [
+          980.0,
+          407.0
+        ],
+        [
+          106.0,
+          406.0
+        ]
+      ],
+      "text": "the Great Depression—shareholders in American banks were responsible",
+      "score": 0.9887251257896423
+    },
+    {
+      "box": [
+        [
+          107.0,
+          412.0
+        ],
+        [
+          981.0,
+          412.0
+        ],
+        [
+          981.0,
+          436.0
+        ],
+        [
+          107.0,
+          436.0
+        ]
+      ],
+      "text": "not only for their investments, but also for a portion of the bank's debts",
+      "score": 0.9916753768920898
+    },
+    {
+      "box": [
+        [
+          105.0,
+          440.0
+        ],
+        [
+          983.0,
+          441.0
+        ],
+        [
+          983.0,
+          469.0
+        ],
+        [
+          105.0,
+          468.0
+        ]
+      ],
+      "text": "after insolvency. If a bank failed, the receiver would determine the extent",
+      "score": 0.9858719110488892
+    },
+    {
+      "box": [
+        [
+          106.0,
+          470.0
+        ],
+        [
+          982.0,
+          472.0
+        ],
+        [
+          982.0,
+          501.0
+        ],
+        [
+          106.0,
+          499.0
+        ]
+      ],
+      "text": "of the insolvency and then assess shareholders for an amount up to and",
+      "score": 0.99848872423172
+    },
+    {
+      "box": [
+        [
+          106.0,
+          505.0
+        ],
+        [
+          977.0,
+          505.0
+        ],
+        [
+          977.0,
+          532.0
+        ],
+        [
+          106.0,
+          532.0
+        ]
+      ],
+      "text": "including the par value of their stock. This system of “double liability\"",
+      "score": 0.9859094619750977
+    },
+    {
+      "box": [
+        [
+          107.0,
+          538.0
+        ],
+        [
+          978.0,
+          538.0
+        ],
+        [
+          978.0,
+          562.0
+        ],
+        [
+          107.0,
+          562.0
+        ]
+      ],
+      "text": "was actively and vigorously enforced throughout the period of its exis-",
+      "score": 0.9761853218078613
+    },
+    {
+      "box": [
+        [
+          105.0,
+          568.0
+        ],
+        [
+          980.0,
+          566.0
+        ],
+        [
+          980.0,
+          595.0
+        ],
+        [
+          105.0,
+          596.0
+        ]
+      ],
+      "text": "tence, generating an enormous volume of litigation, including nearly fifty",
+      "score": 0.9882641434669495
+    },
+    {
+      "box": [
+        [
+          105.0,
+          597.0
+        ],
+        [
+          981.0,
+          599.0
+        ],
+        [
+          981.0,
+          626.0
+        ],
+        [
+          105.0,
+          625.0
+        ]
+      ],
+      "text": "decisions by the United States Supreme Court and hundreds more in the",
+      "score": 0.9820221662521362
+    },
+    {
+      "box": [
+        [
+          105.0,
+          629.0
+        ],
+        [
+          557.0,
+          629.0
+        ],
+        [
+          557.0,
+          657.0
+        ],
+        [
+          105.0,
+          657.0
+        ]
+      ],
+      "text": "state courts and lower federal courts.",
+      "score": 0.9962928891181946
+    },
+    {
+      "box": [
+        [
+          156.0,
+          658.0
+        ],
+        [
+          981.0,
+          660.0
+        ],
+        [
+          981.0,
+          689.0
+        ],
+        [
+          156.0,
+          687.0
+        ]
+      ],
+      "text": "The double liability of bank shareholders raises fundamental ques-",
+      "score": 0.9933615922927856
+    },
+    {
+      "box": [
+        [
+          106.0,
+          693.0
+        ],
+        [
+          981.0,
+          693.0
+        ],
+        [
+          981.0,
+          720.0
+        ],
+        [
+          106.0,
+          720.0
+        ]
+      ],
+      "text": "tions for corporate law and banking regulation. Corporations, almost by",
+      "score": 0.9906906485557556
+    },
+    {
+      "box": [
+        [
+          106.0,
+          722.0
+        ],
+        [
+          982.0,
+          723.0
+        ],
+        [
+          982.0,
+          752.0
+        ],
+        [
+          106.0,
+          751.0
+        ]
+      ],
+      "text": "definition, operate under a regime of limited liability: shareholders stand",
+      "score": 0.9927841424942017
+    },
+    {
+      "box": [
+        [
+          105.0,
+          753.0
+        ],
+        [
+          982.0,
+          754.0
+        ],
+        [
+          982.0,
+          783.0
+        ],
+        [
+          105.0,
+          782.0
+        ]
+      ],
+      "text": "to lose their investments if the corporation becomes insolvent, but they",
+      "score": 0.9883456826210022
+    },
+    {
+      "box": [
+        [
+          105.0,
+          788.0
+        ],
+        [
+          983.0,
+          788.0
+        ],
+        [
+          983.0,
+          816.0
+        ],
+        [
+          105.0,
+          816.0
+        ]
+      ],
+      "text": "have no personal responsibility for its debts. Double liability presents a",
+      "score": 0.9825213551521301
+    },
+    {
+      "box": [
+        [
+          106.0,
+          819.0
+        ],
+        [
+          983.0,
+          819.0
+        ],
+        [
+          983.0,
+          846.0
+        ],
+        [
+          106.0,
+          846.0
+        ]
+      ],
+      "text": "richly documented example of a major American industry that did not",
+      "score": 0.9815028309822083
+    },
+    {
+      "box": [
+        [
+          106.0,
+          848.0
+        ],
+        [
+          981.0,
+          848.0
+        ],
+        [
+          981.0,
+          876.0
+        ],
+        [
+          106.0,
+          876.0
+        ]
+      ],
+      "text": "follow the standard rule of limited liability. How double liability func-",
+      "score": 0.9730456471443176
+    },
+    {
+      "box": [
+        [
+          108.0,
+          882.0
+        ],
+        [
+          980.0,
+          882.0
+        ],
+        [
+          980.0,
+          906.0
+        ],
+        [
+          108.0,
+          906.0
+        ]
+      ],
+      "text": "tioned in practice, accordingly, is a matter of considerable interest for",
+      "score": 0.9955142140388489
+    },
+    {
+      "box": [
+        [
+          107.0,
+          913.0
+        ],
+        [
+          983.0,
+          911.0
+        ],
+        [
+          983.0,
+          940.0
+        ],
+        [
+          107.0,
+          941.0
+        ]
+      ],
+      "text": "corporate law theory---especially in light of recent scholarship that casts",
+      "score": 0.981555700302124
+    },
+    {
+      "box": [
+        [
+          107.0,
+          946.0
+        ],
+        [
+          882.0,
+          946.0
+        ],
+        [
+          882.0,
+          970.0
+        ],
+        [
+          107.0,
+          970.0
+        ]
+      ],
+      "text": "new light on the fundamental justifications for limited liability.2",
+      "score": 0.9715319871902466
+    }
+  ]
+]

@@ -1,0 +1,20 @@
+# requirements.txt
+paddleocr==2.7.0.3
+paddlepaddle==2.5.2
+
+opencv-python<=4.6.0.66
+numpy==1.26.4
+pandas==2.3.3
+
+fire
+pillow
+tqdm
+PyMuPDF<1.21.0
+
+## optional
+beautifulsoup4
+lxml
+pdf2docx
+python-docx
+premailer
+openpyxl

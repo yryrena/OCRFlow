@@ -116,13 +116,13 @@ python scripts/split_columns.py \
 
 #### **Example 1**
 
-*Input:* 
+*Input:*  
 
-<img src="./data/3_split_pages_full/split_example_image1.png" alt="split_example_image1" style="zoom:15%;" /> 
+<img src="./data/3_split_pages_full/split_example_image1.png" alt="split_example_image1" width="300"> 
 
 *Output:* 
 
-<img src="./data/4_split_pages_cols/split_example_image1_col1.png" alt="split_example_image1_col1" style="zoom:7%;" />        <img src="./data/4_split_pages_cols/split_example_image1_col2.png" alt="split_example_image1_col2" style="zoom:7%;" />     
+<img src="./data/4_split_pages_cols/split_example_image1_col1.png" alt="split_example_image1_col1"  width="130">        <img src="./data/4_split_pages_cols/split_example_image1_col2.png" alt="split_example_image1_col2"   width="130">     
 
 
 
@@ -134,7 +134,7 @@ python scripts/split_columns.py \
 
 *Output:*  
 
-<img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col1" style="zoom:10%;" />    <img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col2" style="zoom:10%;" />  <img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col3" style="zoom:10%;" />
+<img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col1"  width="80">    <img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col2"   width="80">   <img src="./data/4_split_pages_cols/split_example_image3_col1.png" alt="split_example_image3_col3"  width="80">
 
 
 

@@ -86,11 +86,11 @@ python scripts/batch_binarize.py \
 
 *Input:*
 
-<img src="./data/1_raw_scans/binarize_example_image1.png" alt="binarize_example_image1" style="zoom:25%;" /> 
+<img src="./data/1_raw_scans/binarize_example_image1.png" alt="binarize_example_image1" width="300"> 
 
 *Output:*
 
-<img src="./data/2_binarized/binarize_example_image1.png" alt="binarize_example_image1" style="zoom:25%;" /> 
+<img src="./data/2_binarized/binarize_example_image1.png" alt="binarize_example_image1"  width="300"> 
 
   
 
@@ -130,7 +130,7 @@ python scripts/split_columns.py \
 
 *Input:* 
 
-<img src="./data/3_split_pages_full/split_example_image3.png" alt="split_example_image3" style="zoom:25%;" /> 
+<img src="./data/3_split_pages_full/split_example_image3.png" alt="split_example_image3" width="300"> 
 
 *Output:*  
 
@@ -167,11 +167,11 @@ python scripts/run_paddle_ocr.py \
 
 *Input:* 
 
-<img src="./data/5_for_ocr/ocr_example_image1.png" alt="ocr_example_image2" style="zoom:20%;" /> 
+<img src="./data/5_for_ocr/ocr_example_image1.png" alt="ocr_example_image2"  width="250"> 
 
 *Output:* 
 
-<img src="./data/6_ocr_results/ocr_example_image1_ocr_20251026_040005.png" alt="ocr_example_image2_ocr_20251026_040005" style="zoom:20%;" /> 
+<img src="./data/6_ocr_results/ocr_example_image1_ocr_20251026_040005.png" alt="ocr_example_image2_ocr_20251026_040005"  width="300"> 
 
 
 
@@ -179,7 +179,7 @@ python scripts/run_paddle_ocr.py \
 
 *Input:* 
 
-<img src="./data/5_for_ocr/ocr_example_image2.png" alt="ocr_example_image2" style="zoom:20%;" /> 
+<img src="./data/5_for_ocr/ocr_example_image2.png" alt="ocr_example_image2"  width="250"> 
 
 *Output:* 
 
@@ -187,7 +187,7 @@ python scripts/run_paddle_ocr.py \
 
 - `.csv` file
 
-<img src="./data/6_ocr_results/ocr_example_image2_ocr_20251026_040005.png" alt="ocr_example_image2_ocr_20251026_040005" style="zoom:20%;" /> 
+<img src="./data/6_ocr_results/ocr_example_image2_ocr_20251026_040005.png" alt="ocr_example_image2_ocr_20251026_040005"  width="300"> 
 
 
 

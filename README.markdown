@@ -2,21 +2,6 @@
 
 An end-to-end pipeline for **document digitization**, combining image preprocessing, column segmentation, and OCR (Optical Character Recognition) — all automated and configurable.
 
-```mermaid
-flowchart LR
-    A[1_raw_scans - Raw Scans] --> B[2_binarized - Binarization]
-    B --> C[3_split_pages_full - Full Pages]
-    C --> D[4_split_pages_cols - Column Crops]
-    D --> E[5_for_ocr - OCR Input]
-    E --> F[6_ocr_results - OCR Output CSV / JSON]
-
-    style A fill:#f6e0b5,stroke:#444,stroke-width:1px
-    style B fill:#eea990,stroke:#444,stroke-width:1px
-    style C fill:#cebfb6,stroke:#444,stroke-width:1px
-    style D fill:#aec8ce,stroke:#444,stroke-width:1px
-    style E fill:#a4b8ac,stroke:#444,stroke-width:1px
-    style F fill:#d6c7c7,stroke:#444,stroke-width:1px
-```
 
 ## Project Structure
 

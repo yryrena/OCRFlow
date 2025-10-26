@@ -2,7 +2,7 @@
 
 An end-to-end pipeline for **document digitization**, combining image preprocessing, column segmentation, and OCR (Optical Character Recognition) — all automated and configurable.
 
-```{mermaid}
+```mermaid
 flowchart LR
     A[1_raw_scans - Raw Scans] --> B[2_binarized - Binarization]
     B --> C[3_split_pages_full - Full Pages]
